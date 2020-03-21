@@ -1,0 +1,61 @@
+[{
+  "id": "1",
+  "clientId": "1",
+  "productId": "5",
+  "businessDateTime": "2019-07-02T00:00:00.000Z",
+  "value": 1700
+}, {
+  "id": "2",
+  "clientId": "1",
+  "productId": "4",
+  "businessDateTime": "2019-07-02T00:00:00.000Z",
+  "value": 400
+}, {
+  "id": "3",
+  "clientId": "1",
+  "productId": "2",
+  "businessDateTime": "2020-01-15T00:00:00.000Z",
+  "value": 200
+}, {
+  "id": "4",
+  "clientId": "3",
+  "productId": "3",
+  "businessDateTime": "2020-01-20T00:00:00.000Z",
+  "value": 500
+}, {
+  "id": "5",
+  "clientId": "3",
+  "productId": "1",
+  "businessDateTime": "2020-01-03T00:00:00.000Z",
+  "value": 100
+}, {
+  "id": "6",
+  "clientId": "5",
+  "productId": "3",
+  "businessDateTime": "2018-11-30T00:00:00.000Z",
+  "value": 650
+}, {
+  "id": "7",
+  "clientId": "5",
+  "productId": "4",
+  "businessDateTime": "2020-02-10T00:00:00.000Z",
+  "value": 400
+}, {
+  "id": "8",
+  "clientId": "1",
+  "productId": "2",
+  "businessDateTime": "2020-02-01T00:00:00.000Z",
+  "value": -200
+}, {
+  "id": "9",
+  "clientId": "1",
+  "productId": "3",
+  "businessDateTime": "2020-02-01T00:00:00.000Z",
+  "value": 450
+}, {
+  "id": "10",
+  "clientId": "2",
+  "productId": "2",
+  "businessDateTime": "2019-12-23T00:00:00.000Z",
+  "value": 180
+}] 

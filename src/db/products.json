@@ -1,0 +1,26 @@
+[{
+  "id": "1",
+  "name": "Watch (low)",
+  "type": "SMARTWATCH",
+  "price": 100
+}, {
+  "id": "2",
+  "name": "Phone (low)",
+  "type": "SMARTPHONE",
+  "price": 200
+}, {
+  "id": "3",
+  "name": "Phone (high)",
+  "type": "SMARTPHONE",
+  "price": 500
+}, {
+  "id": "4",
+  "name": "Tablet (medium)",
+  "type": "TABLET",
+  "price": 400
+}, {
+  "id": "5",
+  "name": "Laptop (high)",
+  "type": "NOTEBOOK",
+  "price": 2000
+}] 

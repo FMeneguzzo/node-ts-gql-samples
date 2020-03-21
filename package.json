@@ -1,0 +1,41 @@
+{
+  "name": "node-ts-gql-samples",
+  "version": "0.1.0",
+  "description": "Node / Typescript / GraphQL code samples",
+  "main": "index.js",
+  "scripts": {
+    "dev": "ts-node-dev --respawn --ignore-watch node_modules --pretty -r tsconfig-paths/register src/index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "diff": "diff schema.graphql target.graphql",
+    "v": "node -v"
+  },
+  "author": "https://github.com/FMeneguzzo",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server-core": "^2.11.0",
+    "apollo-server-express": "^2.11.0",
+    "body-parser": "^1.19.0",
+    "class-validator": "^0.11.0",
+    "dataloader": "^2.0.0",
+    "express": "^4.17.1",
+    "graphql": "^14.6.0",
+    "reflect-metadata": "^0.1.13",
+    "type-graphql": "^0.17.6"
+  },
+  "devDependencies": {
+    "@types/node": "^13.9.0",
+    "@typescript-eslint/eslint-plugin": "^2.22.0",
+    "@typescript-eslint/parser": "^2.22.0",
+    "eslint": "^6.1.0",
+    "eslint-config-airbnb": "^18.0.1",
+    "eslint-plugin-import": "^2.20.1",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-react": "^7.18.3",
+    "eslint-plugin-react-hooks": "^1.7.0",
+    "node": "^13.9.0",
+    "ts-node": "^8.6.2",
+    "ts-node-dev": "^1.0.0-pre.44",
+    "tsconfig-paths": "^3.9.0",
+    "typescript": "^3.8.3"
+  }
+}
